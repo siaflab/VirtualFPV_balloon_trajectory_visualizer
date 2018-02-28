@@ -12,6 +12,7 @@ VirtualFPV
 ## FEATURES
 
 - Balloon trajectory realtime visualize via OSC message
+- Virtual FPV camera
 - Simulation data file visualize (CUSF Landing Predictor http://predict.habhub.org/ )
 - Demo mode: trajectory log file visualize
 
