@@ -1,6 +1,6 @@
 VirtualFPV
 ===
-[Space Moere Project](http://space-moere.org) balloon trajectory realtime visualizer, simulator, log viewer
+[Space Moere Project](http://space-moere.org) telecoding balloon trajectory realtime visualizer, simulator, log viewer
 
 ![image](demo.gif)
 
