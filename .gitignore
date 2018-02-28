@@ -1,0 +1,15 @@
+.DS_Store
+Library
+Temp
+bkup
+build
+.vs
+*.csproj
+*.sln
+*.userprefs
+Assets/OSC/*
+!Assets/OSC/README.md
+Assets/PostProcessing/*
+!Assets/PostProcessing/README.md
+Assets/Standard Assets/*
+!Assets/Standard Assets/README.md
