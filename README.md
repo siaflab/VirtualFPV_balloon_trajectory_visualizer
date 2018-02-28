@@ -2,6 +2,8 @@ VirtualFPV
 ===
 [Space Moere Project](http://space-moere.org) balloon trajectory realtime visualizer, simulator, log viewer
 
+![image](demo.gif)
+
 ## REQUIREMENT
 
 - Mac OS X, Windows 64bit with high spec GPU
