@@ -4,17 +4,17 @@ VirtualFPV
 
 ![image](demo.gif)
 
-## REQUIREMENT
-
-- Mac OS X, Windows 64bit with high spec GPU
-- Unity 2017
-
 ## FEATURES
 
 - Balloon trajectory realtime visualize via OSC message
 - Virtual FPV camera
 - Simulation data file visualize (CUSF Landing Predictor http://predict.habhub.org/ )
 - Demo mode: trajectory log file visualize
+
+## REQUIREMENT
+
+- Mac OS X, Windows 64bit with high spec GPU
+- Unity 2017 or later
 
 ## DEPENDENCIES
 
