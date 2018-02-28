@@ -1,10 +1,11 @@
 VirtualFPV
 ===
-Space Moere Project balloon trajectory realtime visualizer, simulator, log viewer
+[Space Moere Project](http://space-moere.org) balloon trajectory realtime visualizer, simulator, log viewer
 
 ## REQUIREMENT
 
-Mac OS X, Windows 64bit with high spec GPU
+- Mac OS X, Windows 64bit with high spec GPU
+- Unity 2017
 
 ## FEATURES
 
@@ -14,11 +15,13 @@ Mac OS X, Windows 64bit with high spec GPU
 
 ## DEPENDENCIES
 
+You need to import the following libraries to build this program:
+
 - [Standard Assets](https://docs.unity3d.com/Manual/HOWTO-InstallStandardAssets.html)
-- [Post Processing stack](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912)
+- [Post Processing Stack](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912)
 - [UnityOSC](https://github.com/jorgegarcia/UnityOSC)
 
-## OSC Interface
+## OSC INTERFACE
 
 Port Number: 32000
 
